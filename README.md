@@ -1,3 +1,5 @@
+Demo link https://minhfuji.github.io/WPRestfulAPI_html/
+
 # Backend
 
 Install Wordpress, please be sure rewrite mode  is ON and wp .htacess is acceptable with apache
