@@ -6,10 +6,17 @@ Expect you finish your installation, and have accessible URL http://localhost/wo
 
 # Frontend 
 
-Edit line 54 in index.html, change 
-> const RESTURL = 'https://wordpress.org/news/wp-json/'
+Edit line 54 in index.html, change
+
+```
+const RESTURL = 'https://wordpress.org/news/wp-json/'
+```
+
 Into
-> const RESTURL = 'https://localhost/wordpress/wp-json/'
+
+```
+const RESTURL = 'https://localhost/wordpress/wp-json/'
+```
 
 If don’t change RESTURL, the data will be loaded from wordpress news ( wordpress.org )
 Open index.html with web browser to see the demo
