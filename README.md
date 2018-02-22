@@ -1,8 +1,10 @@
 # Backend
 
 Install Wordpress, please be sure rewrite mode  is ON and wp .htacess is acceptable with apache
+
 Input some sample content , some sample category
-Expect you finish your installation, and have accessible URL http://localhost/wordpress 
+
+Expect after your installation, you have accessible URL http://localhost/wordpress 
 
 # Frontend 
 
