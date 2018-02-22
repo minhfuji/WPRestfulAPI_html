@@ -21,4 +21,5 @@ const RESTURL = 'https://localhost/wordpress/wp-json/'
 ```
 
 If don’t change RESTURL, the data will be loaded from wordpress news ( wordpress.org )
+
 Open index.html with web browser to see the demo
